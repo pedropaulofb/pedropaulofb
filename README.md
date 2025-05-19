@@ -1,7 +1,48 @@
-<h1 align="center">Hello 👋, I'm Pedro Paulo Favato Barcelos</h1>
+# 👋 Hi, I'm Pedro Paulo Favato Barcelos
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedropaulofb" alt="pedropaulofb" /></a> </p>
+**Senior Metadata and Semantics Specialist at [Health-RI](https://www.health-ri.nl/)**
+**Ontology Engineer | Conceptual Modeling | Semantic Web | FAIR Data**
 
-<h3 align="justify">I am a dedicated researcher at the Semantics, Cybersecurity and Services Group, University of Twente, and at the UGent Business Informatics Group, Ghent University. My work focuses on applied ontologies, particularly in the use and development of OntoUML. I am also deeply interested in the Semantic Web and Knowledge Graphs, which are essential in improving the way information is interconnected and used in the digital environment.</h3>
+---
 
-<h3 align="justify"> If you're interested in my work or considering collaboration, feel free to drop me an email at <a href="mailto:p.p.favatobarcelos@utwente.nl">p.p.favatobarcelos@utwente.nl</a> or <a href="mailto:pedro.favatobarcelos@ugent.be">pedro.favatobarcelos@ugent.be</a>. Also, let's <a href="https://www.linkedin.com/in/pedro-paulo-favato-barcelos/">connect on LinkedIn</a>! Check out my latest works on <a href="https://www.researchgate.net/profile/Pedro-Barcelos">ResearchGate</a> and <a href="https://scholar.google.com/citations?user=1kF9FGwAAAAJ">Google Scholar</a>. </h3>
+I am an Ontology Engineer with a strong background in **conceptual modeling**, **knowledge graphs**, and **semantic interoperability**. With over a decade of experience across academic, governmental, and industrial projects, I’ve contributed to initiatives in telecommunications, healthcare, supply chains, and transportation.
+
+Currently, I work at **Health-RI**, a Dutch national initiative to advance health research. My focus is on **semantic data integration** and **metadata standards** for clinical and biomedical data.
+
+Throughout my academic (BSc, MSc, PhD) and professional journey, I’ve worked extensively with ontologies—from their **philosophical foundations** to **practical implementations**—using **UFO**, **OntoUML**, and **semantic web technologies** like **RDF**, **OWL**, **SPARQL**, and **SHACL**. I also hold an **MBA in Project Management**. My go-to language for data work and automation is **Python**.
+
+---
+
+## 🧠 Key Interests
+
+- Applied Ontologies & Conceptual Modeling  
+- Knowledge Graphs & Semantic Web  
+- Taxonomies, Thesauri & Controlled Vocabularies  
+- FAIR Data Principles
+
+---
+
+## 🚀 Recent Highlights
+
+- 🧩 Created **ResiliOnt**, a well-founded resilience ontology  
+  _Published at the 43rd International Conference on Conceptual Modeling (ER 2024)_  
+  [🔗 DOI: 10.1007/978-3-031-75872-0_21](https://doi.org/10.1007/978-3-031-75872-0_21)
+
+- 📚 Key contributor & curator of the **OntoUML/UFO Catalog**  
+  _Supporting ontology-driven conceptual modeling research_  
+  [🔗 GitHub Repository](https://github.com/OntoUML/ontouml-models)
+
+- 🏆 Received a **Best Paper Award at FOIS 2023**  
+  _For advancing computational applications of foundational ontologies_  
+  [🔗 DOI: 10.3233/FAIA231122](https://doi.org/10.3233/FAIA231122)
+
+- 🐍 Contributed **open-source Python libraries** for ontology engineering and beyond
+
+---
+
+## 🌐 Connect with Me
+
+- 🔗 [LinkedIn](https://scholar.google.com/citations?user=1kF9FGwAAAAJ)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=1kF9FGwAAAAJ)
+
+---
