@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Pedro Paulo Favato Barcelos
 
 **Senior Metadata and Semantics Specialist at [Health-RI](https://www.health-ri.nl/)**
-**Ontology Engineer | Conceptual Modeling | Semantic Web | FAIR Data**
+
+_**Ontology Engineer | Conceptual Modeling | Semantic Web | FAIR Data**_
 
 ---
 
