@@ -2,7 +2,7 @@
 
 **Senior Metadata and Semantics Specialist at [Health-RI](https://www.health-ri.nl/)**
 
-_**Ontology Engineer | Conceptual Modeling | Semantic Web | FAIR Data**_
+_**Ontology Engineering | Conceptual Modeling | Semantic Web | FAIR Data**_
 
 ---
 
